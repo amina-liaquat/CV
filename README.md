@@ -21,5 +21,5 @@ It includes my background, skills, education, projects, and achievements, all pr
   You can easily update or modify the LaTeX source code to fit your own profile.
 
 - **High-Quality PDF Output**  
-  The compiled CV produces a crisp and print-ready PDF suitable for both digital and physical sharing.
+  The compiled CV produces a crisp and print-ready PDF suitable for both digital and physical sharings.
 
